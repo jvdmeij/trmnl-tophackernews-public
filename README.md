@@ -1,5 +1,7 @@
 # TRMNL Top Hacker News
 
+[![Connections](https://trmnl-badges.gohk.xyz/badge/connections?recipe=17494)](https://trmnl.com/recipes/17494)
+
 Top Hacker News stories for your [TRMNL](https://usetrmnl.com/) e-ink display.
 
 ![img_UcO3HHHE](https://github.com/user-attachments/assets/f9aa15a3-7387-4435-b8be-45900bd40127)
